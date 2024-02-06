@@ -1,6 +1,6 @@
 import React from 'react'
 
-import SideNav from '../ui/dashboard/sidenav.tsx'
+import SideNav from '../ui/dashboard/sidenav'
 
 export default function Layout({ children }: { children: React.ReactNode }) {
     return (
